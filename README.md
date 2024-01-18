@@ -4,26 +4,34 @@ Dans le cadre de la 2ème année du BUT Informatique Métiers du multimédia et 
 
 # Nous étions toute une équipe à réaliser ce projet: 
   ## Equipe du CUEJ:
-  Rédaction en chef: Keziah Cretin, Fanny Gelb
+  ### Rédaction en chef:
+  Keziah Cretin, Fanny Gelb
   
-  Responsables d'édition: Manon Boudsocq, Émie Stervinou
+  ### Responsables d'édition:
+  Manon Boudsocq, Émie Stervinou
   
-  Responsable iconographique: Coline Playoust
+  ### Responsable iconographique: 
+  Coline Playoust
   
-  Rédacteurs et rédactrices: Alice Caillau, Angelina Lenez, Azilis Briend, Baptiste Huguet, Coline Playoust, Fanny Gelb, Guillaume Colleoni, Ilham Cheblaouy, Jean Lebreton, Julie Arbouin, Justine Le Pourhiet, Keziah Cretin, Manon Boudsocq, Martin Falaizeau,     Mina Peltier, Milan Derrien, Océane Caillat, Pauline Beignon, Émie Stervinou 
+  ### Rédacteurs et rédactrices:
+  Alice Caillau, Angelina Lenez, Azilis Briend, Baptiste Huguet, Coline Playoust, Fanny Gelb, Guillaume Colleoni, Ilham Cheblaouy, Jean Lebreton, Julie Arbouin, Justine Le Pourhiet, Keziah Cretin, Manon Boudsocq, Martin Falaizeau,     Mina Peltier, Milan Derrien, Océane Caillat, Pauline Beignon, Émie Stervinou 
 
   ## Equipe de l'IUT de Haguenau:
-  Développeurs: Laura Borni, Ambre Lis, Yann Sander
+  ### Développeurs: 
+   Ambre Lis, Laura Borni, Yann Sander
   
-  Graphistes: Yann Sander, Jordan Hattstadt, Meltem Kurhan, Lucas Behavana, Marilou Klingenstein 
+  ### Graphistes: 
+  Yann Sander, Jordan Hattstadt, Meltem Kurhan, Lucas Behavana, Marilou Klingenstein 
 
   ## Professeurs encadrants : 
-  CUEJ: Antoine Bonin, Yann Gallic, Joseph Pasquier, Mathias Thura
+  ### CUEJ: 
+  Antoine Bonin, Yann Gallic, Joseph Pasquier, Mathias Thura
   
-  IUT de Haguenau: David Cazier, Sophie Behal, Jean-Baptiste Bailly 
+  ### IUT de Haguenau: 
+  David Cazier, Sophie Behal, Jean-Baptiste Bailly 
 
 
-Nous avons réalisé le site dans son entièreté de la conception, à la programmation jusqu'au déploiement.
+Nous avons réalisé le site dans son entièreté de la conception, à la programmation jusqu'au déploiement. Le principe était de créer un site vitrine pour ces élèves, mais aussi un Système de gestion de contenu (CMS) afin que les élèves cuejiens puissent éditer leurs contenus eux même. Le site a été programmé en PHP, JAVASCRIPT, CSS, HTML.
 
 Ci-joint vous pouvez retrouver le site réalisé : http://www.cuej.info/mini-sites/sport/
 
