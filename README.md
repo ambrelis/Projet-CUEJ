@@ -2,7 +2,7 @@
 
 Dans le cadre de la 2ème année du BUT Informatique Métiers du multimédia et de l'internet j'ai été amené à réaliser un site vitrine avec d'autres élèves de ma formation, en collaboration avec les étudiants du Centre Universitaire d’Enseignement du Journalisme (CUEJ), dans le but de pouvoir présenter le contenu journalistique de ces élèves.
 
-Nous étions toute une équipe à réaliser ce projet: 
+## Nous étions toute une équipe à réaliser ce projet: 
   # Equipe du CUEJ:
   Rédaction en chef: Keziah Cretin, Fanny Gelb
   Responsables d'édition: Manon Boudsocq, Émie Stervinou
