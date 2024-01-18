@@ -11,6 +11,7 @@ Dans le cadre de la 2ème année du BUT Informatique Métiers du multimédia et 
 
   ## Equipe de l'IUT de Haguenau:
   Développeurs: Laura Borni, Ambre Lis, Yann Sander
+  
   Graphistes: Yann Sander, Jordan Hattstadt, Meltem Kurhan, Lucas Behavana, Marilou Klingenstein 
 
   ## Professeurs encadrants : 
