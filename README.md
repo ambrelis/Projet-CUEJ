@@ -31,7 +31,7 @@ Dans le cadre de la 2ème année du BUT Informatique Métiers du multimédia et 
   David Cazier, Sophie Behal, Jean-Baptiste Bailly 
 
 
-Nous avons réalisé le site dans son entièreté de la conception, à la programmation jusqu'au déploiement. Le principe était de créer un site vitrine pour ces élèves, mais aussi un Système de gestion de contenu (CMS) afin que les élèves cuejiens puissent éditer leurs contenus eux même. Le site a été programmé en PHP, JAVASCRIPT, CSS, HTML ainsi qu'avec le framework Bootstrap.
+Nous avons réalisé le site dans son entièreté de la conception, à la programmation jusqu'au déploiement. Le principe était de créer un site vitrine pour ces élèves, mais aussi un Système de gestion de contenu (CMS) afin que les élèves cuejiens puissent éditer leurs contenus eux même. Le site a été programmé en PHP, JAVASCRIPT, CSS, HTML ainsi qu'avec le framework Bootstrap et le moteur de template Twig pour le langage PHP.
 
 Ci-joint vous pouvez retrouver le site réalisé : http://www.cuej.info/mini-sites/sport/
 
